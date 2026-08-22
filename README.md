@@ -1,9 +1,9 @@
-# Example Mod
+这个模组为我的世界添加了一些实用的工具，添加了一个清理树木的工具和一个清理花草的工具，以及一个平整工具和一个混合清理工具 
 
-## Setup
+清理树木工具： 这个工具右键可以清除选定范围内的树木，手持工具shift+鼠标滚轮可以调节选定范围，最大256x256，清除完毕后会自动更新光照，这个工具可以不用亲自跑到树上右键，最远可以隔着64个格子使用，这个工具可以清除一些模组的树。 
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+清除花草工具： 这个工具右键可以清除选定范围内的花草，手持工具shift+鼠标滚轮可以调节选定范围，最大256x256，同样的，最远可以隔着64个格子使用。 
 
-## License
+平整工具： 这个工具可以清除选中的方块面前的128x128x50的区域，然后再在选定的y轴基准高度上放置一层草方块，手持工具shift+鼠标滚轮可以调整放置的高度。
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+混合工具： 包含树木清理工具和清除花草工具的所有功能。
