@@ -9,6 +9,8 @@
 - 平整工具：
 这个工具可以清除选中的方块面前的128*128*50的区域，然后再在选定的y轴基准高度上放置一层草方块，手持工具shift+鼠标滚轮可以调整放置的高度，自1.1.3版本开始手持工具shift+上方向键/左方向键/右方向键可以调节破坏范围的高/长/宽。
 
+- 光照更新工具：自模组1.1.4版本起，新增光照更新工具，右键使用可更新16x16x16范围内的光照；
+
 - 混合工具：
 包含树木清理工具和清除花草工具的所有功能。
 
@@ -29,7 +31,9 @@ Right-clicking with this tool clears all trees within a selected range. While ho
 Right-clicking with this tool clears all flowers and grass within a selected range. While holding the tool, press Shift + scroll the mouse wheel to adjust the range, up to a maximum of 256×256 blocks. Like the tree tool, it can be used from up to 64 blocks away.
 
 - Leveling Tool:
-This tool clears a 128×128×50 area in front of the selected block, then places a layer of grass blocks at the chosen Y-axis base height. While holding the tool, press Shift + scroll the mouse wheel to adjust the placement height，Starting from version 1.1.3, you can adjust the destruction range's height/length/width by holding a tool and pressing Shift + Up/Left/Right arrow keys..
+This tool clears a 128×128×50 area in front of the selected block, then places a layer of grass blocks at the chosen Y-axis base height. While holding the tool, press Shift + scroll the mouse wheel to adjust the placement height，Starting from version 1.1.3, you can adjust the destruction range's height/length/width by holding a tool and pressing Shift + Up/Left/Right arrow keys.
+
+-Lighting update tool: Starting from module version 1.1.4, a new lighting update tool has been added, which can be used to update lighting within the range of 16x16x16 by right clicking;
 
 - Combined Tool:
 This tool combines all the functions of the tree-clearing tool and the flower-and-grass-clearing tool.
