@@ -3,13 +3,14 @@
   "id": "tree_clearing_tool_mod_1787384923",
   "version": "${version}",
   "name": "dabaojianspracticaltools",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Added some practical tools",
   "authors": [
-    "2367868953@qq.com"
+    "dabaojianya"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://space.bilibili.com/482252473",
+    "sources": "https://github.com/dabaojianya404/dabaojian-s-practical-tools",
+    "curseforge": "https://www.curseforge.com/minecraft/mc-mods/dabaojians-practical-tools"
   },
   "license": "CC0-1.0",
   "icon": "assets/tree_clearing_tool_mod_1787384923/textures/item/tree_clearing_tool.png",
