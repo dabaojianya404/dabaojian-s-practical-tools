@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "cn.autoforged.tree_clearing_tool_mod_1787384923.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "container.tree_clearing_tool_mod_1787384923.blacklist": "Blacklist Filter",
+  "item.tree_clearing_tool_mod_1787384923.blacklist_clearing_tool": "Blacklist Clearing Tool",
+  "item.tree_clearing_tool_mod_1787384923.flower_clearing_tool": "Flower Clearing Tool",
+  "item.tree_clearing_tool_mod_1787384923.leveling_tool": "Leveling Tool",
+  "item.tree_clearing_tool_mod_1787384923.light_update_tool": "Light Update Tool",
+  "item.tree_clearing_tool_mod_1787384923.mixed_clearing_tool": "Mixed Clearing Tool",
+  "item.tree_clearing_tool_mod_1787384923.tree_clearing_tool": "Tree Clearing Tool",
+  "key.categories.tree_clearing_tool_mod_1787384923": "dabaojians practical tools",
+  "key.tree_clearing_tool_mod_1787384923.undo": "Undo Last Clear",
+  "message.tree_clearing_tool_mod_1787384923.blacklist.empty": "No target set: Shift+Right-click a block, or Shift+Right-click the air to open the filter",
+  "message.tree_clearing_tool_mod_1787384923.blacklist.selected": "Target set: %s",
+  "message.tree_clearing_tool_mod_1787384923.undo.nothing": "Nothing to undo",
+  "message.tree_clearing_tool_mod_1787384923.undo.success": "Undo successful"
+}

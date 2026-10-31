@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "tree_clearing_tool_mod_1787384923:item/mixed_clearing_tool"
+  }
+}

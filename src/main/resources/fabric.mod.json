@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "tree_clearing_tool_mod_1787384923",
+  "version": "${version}",
+  "name": "dabaojianspracticaltools",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "2367868953@qq.com"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/tree_clearing_tool_mod_1787384923/textures/item/tree_clearing_tool.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.autoforged.tree_clearing_tool_mod_1787384923.ExampleMod"
+    ],
+    "client": [
+      "cn.autoforged.tree_clearing_tool_mod_1787384923.client.ExampleModClient"
+    ],
+    "fabric-datagen": [
+      "cn.autoforged.tree_clearing_tool_mod_1787384923.datagen.ModDataGenerator"
+    ]
+  },
+  "mixins": [
+    "tree_clearing_tool_mod_1787384923.mixins.json",
+    {
+      "config": "tree_clearing_tool_mod_1787384923.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}
