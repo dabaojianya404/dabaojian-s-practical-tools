@@ -1,9 +1,4 @@
-# dabaojian's practical tools mod
-
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# Warning!!!
+In this beta testing branch, you may encounter many issues, including world corruption, etc. Before installation, you should back up your world first!
+# version
+*v1.2.0beta1:Handled most of the traces left by AI generation.
