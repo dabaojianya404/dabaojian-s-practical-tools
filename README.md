@@ -1,9 +1,2 @@
-# dabaojian's practical tools mod
-
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# In this alpha testing branch, you may encounter many issues, including world corruption, etc. Before installation, you should back up your world first
+*v1.1.6alpha2:Now you can press the tab in multiplayer games and see your game latency and server TPS above the player list.
