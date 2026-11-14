@@ -18,3 +18,30 @@
 - 撤销：从1.1.2版本开始，默认f7撤销上一步操作。可在按键绑定中更改；
 - 命令：自1.1.3版本开始，新增/dbjtools指令，用法:/dbjtools [玩家名称] undo  管理员可以用此指令撤销服务器内成员的操作。请注意，最多只能撤销最近10次操作；
 - 注意： 自1.1.2版本开始，模组需要[fabric api](https://www.mcmod.cn/class/3124.html)作为前置模组；在清理有关[枫](https://www.mcmod.cn/class/11807.html)模组的内容时，可能会出现未被发现的问题。
+# **Overview**
+
+This module adds some practical tools to MC.
+
+Added tree cleaning tools, flower and grass cleaning tools, lighting update tools, leveling tools, blending tools, and blacklist cleaning tools that you can find in the tools section.
+
+# **Tool List**
+
+**Tree Cleaning Tool:** Right click on this tool to clear trees within the selected range. Hold the tool Shift+mouse wheel to adjust the selected range, up to 256x256. After cleaning, the lighting will be automatically updated. This tool can be used up to 64 grids away from the tree without having to right-click on it. It can also clear some mod trees, such as maple trees;
+
+**Clear Flowers and Plants Tool:** Right click on this tool to clear flowers and plants within the selected range. Hold the tool Shift+mouse wheel to adjust the selected range, up to 256x256. Similarly, it can be used up to 64 grids apart;
+
+**Flattening tool:** This tool can clear the 128x128x50 area in front of the selected block, and then place a layer of grass blocks on the selected y-axis reference height. Hold the tool Shift+mouse wheel to adjust the placement height;
+
+**Mixed tools:** including all functions of tree cleaning tools and flower removal tools;
+
+**Lighting update tool:** right-click to update lighting within the range of 16x16x16;
+
+**Blacklist cleaning tool:** Shift and right-click on any block to select a block, press the right-click to align with these blocks to destroy the selected blocks within the range, and press Shift and right-click on the sky to open a 2 \* 9 item bar. After placing the block in the item bar, right-click to clear the blocks within the range. Hold the tool Shift and mouse wheel to adjust the selected range, up to 256x256.
+
+# **Others**
+
+**Revocation:** Starting from version 1.1.2, the default is to undo the previous operation in f7. Can be changed in key binding;
+
+**Command:** Starting from version 1.1.3, the/dbjtools command has been added. Usage:/dbjtools [player name] undo. Administrators can use this command to undo operations by members within the server. Please note that only the last 10 operations can be revoked at most;
+
+**Note:** Starting from version 1.1.2, the Fabric API is required as a pre module for mods; When cleaning up content related to maple mods, there may be undiscovered issues.
