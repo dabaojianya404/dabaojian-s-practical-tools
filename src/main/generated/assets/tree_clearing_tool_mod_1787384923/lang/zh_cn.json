@@ -1,0 +1,15 @@
+{
+  "container.tree_clearing_tool_mod_1787384923.blacklist": "黑名单过滤栏",
+  "item.tree_clearing_tool_mod_1787384923.blacklist_clearing_tool": "黑名单清除工具",
+  "item.tree_clearing_tool_mod_1787384923.flower_clearing_tool": "清除花工具",
+  "item.tree_clearing_tool_mod_1787384923.leveling_tool": "平整工具",
+  "item.tree_clearing_tool_mod_1787384923.light_update_tool": "光照更新工具",
+  "item.tree_clearing_tool_mod_1787384923.mixed_clearing_tool": "混合清理工具",
+  "item.tree_clearing_tool_mod_1787384923.tree_clearing_tool": "清树工具",
+  "key.categories.tree_clearing_tool_mod_1787384923": "大宝剑的实用工具",
+  "key.tree_clearing_tool_mod_1787384923.undo": "撤销上一次清理",
+  "message.tree_clearing_tool_mod_1787384923.blacklist.empty": "未指定清除目标：Shift+右键方块指定，或 Shift+右键空气打开过滤栏",
+  "message.tree_clearing_tool_mod_1787384923.blacklist.selected": "已指定清除目标: %s",
+  "message.tree_clearing_tool_mod_1787384923.undo.nothing": "没有可撤销的操作",
+  "message.tree_clearing_tool_mod_1787384923.undo.success": "撤销成功"
+}
