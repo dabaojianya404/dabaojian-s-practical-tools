@@ -4,7 +4,7 @@
 
 添加了清理树木工具、清理花草工具、光照更新工具、平整工具、混合工具、黑名单清理工具你可以在工具一栏找到。
 
-在这个仓库中，你可以在alpha分支中看到最新的测试版！
+在这个仓库中，你可以在alpha或beta分支中看到最新的测试版！
 
 ## 工具列表
 
@@ -26,7 +26,7 @@ This module adds some practical tools to MC.
 
 Added tree cleaning tools, flower and grass cleaning tools, lighting update tools, leveling tools, blending tools, and blacklist cleaning tools that you can find in the tools section.
 
-In this repository, you can see the latest beta version in the alpha branch!
+In this repository, you can see the latest alpha or beta version in the alpha branch!
 
 # **Tool List**
 
