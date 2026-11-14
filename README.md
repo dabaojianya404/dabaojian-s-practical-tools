@@ -4,6 +4,8 @@
 
 添加了清理树木工具、清理花草工具、光照更新工具、平整工具、混合工具、黑名单清理工具你可以在工具一栏找到。
 
+在这个仓库中，你可以在alpha分支中看到最新的测试版！
+
 ## 工具列表
 
 - 清理树木工具：这个工具右键可以清除选定范围内的树木，手持工具 Shift+鼠标滚轮可以调节选定范围，最大 256x256，清除完毕后会自动更新光照，这个工具可以不用亲自跑到树上右键，最远可以隔着 64 个格子使用，这个工具可以清除一些模组的树，例如[枫](https://www.mcmod.cn/class/11807.html)；
@@ -23,6 +25,8 @@
 This module adds some practical tools to MC.
 
 Added tree cleaning tools, flower and grass cleaning tools, lighting update tools, leveling tools, blending tools, and blacklist cleaning tools that you can find in the tools section.
+
+In this repository, you can see the latest beta version in the alpha branch!
 
 # **Tool List**
 
