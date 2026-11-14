@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "tree_clearing_tool_mod_1787384923",
+  "version": "${version}",
+  "name": "dabaojianspracticaltools",
+  "description": "Add some practical tools",
+  "authors": [
+    "dabaojianya"
+  ],
+  "contact": {
+    "homepage": "https://space.bilibili.com/482252473",
+    "sources": "https://github.com/dabaojianya404/dabaojian-s-practical-tools",
+    "curseforge": "https://www.curseforge.com/minecraft/mc-mods/dabaojians-practical-tools"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/tree_clearing_tool_mod_1787384923/textures/item/tree_clearing_tool.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.autoforged.tree_clearing_tool_mod_1787384923.ExampleMod"
+    ],
+    "client": [
+      "cn.autoforged.tree_clearing_tool_mod_1787384923.client.ExampleModClient"
+    ],
+    "fabric-datagen": [
+      "cn.autoforged.tree_clearing_tool_mod_1787384923.datagen.ModDataGenerator"
+    ]
+  },
+  "mixins": [
+    "tree_clearing_tool_mod_1787384923.mixins.json",
+    {
+      "config": "tree_clearing_tool_mod_1787384923.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}
