@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "dabaojians_practical_tools:item/light_update_tool"
+  }
+}

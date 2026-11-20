@@ -1,0 +1,15 @@
+{
+  "container.dabaojians_practical_tools.blacklist": "黑名单过滤栏",
+  "item.dabaojians_practical_tools.blacklist_clearing_tool": "黑名单清除工具",
+  "item.dabaojians_practical_tools.flower_clearing_tool": "清除花工具",
+  "item.dabaojians_practical_tools.leveling_tool": "平整工具",
+  "item.dabaojians_practical_tools.light_update_tool": "光照更新工具",
+  "item.dabaojians_practical_tools.mixed_clearing_tool": "混合清理工具",
+  "item.dabaojians_practical_tools.tree_clearing_tool": "清树工具",
+  "key.categories.dabaojians_practical_tools": "大宝剑的实用工具",
+  "key.dabaojians_practical_tools.undo": "撤销上一次清理",
+  "message.dabaojians_practical_tools.blacklist.empty": "未指定清除目标：Shift+右键方块指定，或 Shift+右键空气打开过滤栏",
+  "message.dabaojians_practical_tools.blacklist.selected": "已指定清除目标: %s",
+  "message.dabaojians_practical_tools.undo.nothing": "没有可撤销的操作",
+  "message.dabaojians_practical_tools.undo.success": "撤销成功"
+}

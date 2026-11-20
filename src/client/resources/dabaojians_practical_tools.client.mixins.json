@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "cn.dabaojian.dabaojians_practical_tools.client.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "MouseHandlerMixin",
+    "PlayerTabStatsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

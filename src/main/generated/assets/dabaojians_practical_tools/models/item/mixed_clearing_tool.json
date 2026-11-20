@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "dabaojians_practical_tools:item/mixed_clearing_tool"
+  }
+}

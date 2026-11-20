@@ -1,0 +1,15 @@
+{
+  "container.dabaojians_practical_tools.blacklist": "Blacklist Filter",
+  "item.dabaojians_practical_tools.blacklist_clearing_tool": "Blacklist Clearing Tool",
+  "item.dabaojians_practical_tools.flower_clearing_tool": "Flower Clearing Tool",
+  "item.dabaojians_practical_tools.leveling_tool": "Leveling Tool",
+  "item.dabaojians_practical_tools.light_update_tool": "Light Update Tool",
+  "item.dabaojians_practical_tools.mixed_clearing_tool": "Mixed Clearing Tool",
+  "item.dabaojians_practical_tools.tree_clearing_tool": "Tree Clearing Tool",
+  "key.categories.dabaojians_practical_tools": "dabaojians practical tools",
+  "key.dabaojians_practical_tools.undo": "Undo Last Clear",
+  "message.dabaojians_practical_tools.blacklist.empty": "No target set: Shift+Right-click a block, or Shift+Right-click the air to open the filter",
+  "message.dabaojians_practical_tools.blacklist.selected": "Target set: %s",
+  "message.dabaojians_practical_tools.undo.nothing": "Nothing to undo",
+  "message.dabaojians_practical_tools.undo.success": "Undo successful"
+}

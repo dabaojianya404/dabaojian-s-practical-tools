@@ -1,35 +1,36 @@
 {
   "schemaVersion": 1,
-  "id": "tree_clearing_tool_mod_1787384923",
+  "id": "dabaojians_practical_tools",
   "version": "${version}",
-  "name": "dabaojianspracticaltools",
-  "description": "Added some practical tools",
+  "name": "dabaojian's practical tools",
+  "description": "Add some practical tools",
   "authors": [
     "dabaojianya"
   ],
   "contact": {
     "homepage": "https://space.bilibili.com/482252473",
     "sources": "https://github.com/dabaojianya404/dabaojian-s-practical-tools",
-    "curseforge": "https://www.curseforge.com/minecraft/mc-mods/dabaojians-practical-tools"
+    "curseforge": "https://www.curseforge.com/minecraft/mc-mods/dabaojians-practical-tools",
+    "mcmod": "https://www.mcmod.cn/class/29931.html"
   },
   "license": "CC0-1.0",
-  "icon": "assets/tree_clearing_tool_mod_1787384923/textures/item/tree_clearing_tool.png",
+  "icon": "assets/dabaojians_practical_tools/textures/item/tree_clearing_tool.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "cn.autoforged.tree_clearing_tool_mod_1787384923.ExampleMod"
+      "cn.dabaojian.dabaojians_practical_tools.ExampleMod"
     ],
     "client": [
-      "cn.autoforged.tree_clearing_tool_mod_1787384923.client.ExampleModClient"
+      "cn.dabaojian.dabaojians_practical_tools.client.ExampleModClient"
     ],
     "fabric-datagen": [
-      "cn.autoforged.tree_clearing_tool_mod_1787384923.datagen.ModDataGenerator"
+      "cn.dabaojian.dabaojians_practical_tools.datagen.ModDataGenerator"
     ]
   },
   "mixins": [
-    "tree_clearing_tool_mod_1787384923.mixins.json",
+    "dabaojians_practical_tools.mixins.json",
     {
-      "config": "tree_clearing_tool_mod_1787384923.client.mixins.json",
+      "config": "dabaojians_practical_tools.client.mixins.json",
       "environment": "client"
     }
   ],
